@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style type="text/css">
+li a:link{
+text_docoratrion:none;
+border:solid 1px;
+padding:0.4em 0.8em;
+color:white;
+background:#87CEFA;
+border-color:#fff #aaab9c #aaab9c #fff;
+zoom:1
+}
+li a:hover{
+color:black;
+background:white;
+border-color:#aaab9c #fff #fff #aaab9c;
+}
+a:link{
+color black;
+}
+a:hover{
+color:red;
+}
+.STYLE1{
+font-style:italic;
+text-decoration:underline;
+font-weight:bold;
+font-size:30px;
+}
+.STYLE2{
+text-indent:2em;
+font-size:18px;
+}
+body{
+background:url(背景1.png);
+}
+.STYLE3{
+text-align:center;
+padding:24px;
+margin:0;
+font-family:helvetica,arial,sans-serif;
+font-Size:40px;
+font-weight:bold;
+color:black;
+text-shadow:0 0 0.2em #F87,
+0 0 0.2em #F87;
+}
+.dotted{
+border-style:dotted;
+}
+.dashed{
+border-style:dashed;
+}
+</style>
+<title>计算机导论大作业</title>
+</head>
+<body>
+<p class="STYLE3">计算机导论大作业</p>
+<ul id="0">
+<li><a href="#1">计算机学科各课程之间的关系</a></li>
+<p></p>
+<li><a href="#2">计算机学科各课程的参考资料</a></li>
+<p></p>
+<li><a href="#3">我对计算机专业的认识</a></li>
+<p></p>
+<li><a href="#4">我的学业规划</a></li>
+</ul>
+<h1 id="1"><p class="STYLE1">计算机学科各课程之间的关系</p></h1>
+<img src="课程关系.png" width="1000" height="600"/>
+<li><a href="#0">返回首部</a></li>
+<p></p>
+<p></p>
+<h1 id="2"><p class="STYLE1">计算机学科各课程的参考资料</p></h1>
+<a href="https://www.jb51.net/books/590412.html">《数据结构、算法与应用》</a>
+<p><img src="数据结构.jpg" width="300" height="300"/></p>
+<a href="https://download.csdn.net/download/ezword/12807656?spm=1001.2101.3001.5697">《操作系统导论》</a>
+<p><img src="操作系统导论.jpg" width="300" height="300"/></p>
+<a href="https://www.jb51.net/books/569779.html">《计算机网络：自顶向下方法》</a>
+<p><img src="计算机网络.jpg" width="300" height="300"/></p>
+<li><a href="#0">返回首部</a></li>
+<p></p>
+<p></p>
+<h1 id="3"><p class="STYLE1">我对计算机专业的认识</p></h1>
+<p class="STYLE2">计算机在21世纪迅猛发展，是当今最热门的专业之一。我感觉很荣幸能成为一名计算机专业的学生</p>
+<p class="STYLE2">计算机目前渗透进人们生活的方方面面，比如：唯品会、淘宝等APP渗透进人们“衣”的方面；美团，饿了么等APP渗透进人们“食”的方面；网约车则渗透进人们“行”的方面。说计算机改变了人们的生活一点也不为过。此外，目前飞速发展的人工智能吸引了人们的注意力，深度学习、强化学习等大火，前景一片光明。计算机专业为我们跨进计算机的大门提供了一个梯子，我们交大学生应该牢牢抓住这把梯子，为社会做出贡献。</p>
+<img class="dashed" src="计算机.jpg" width="400" height="300"/>
+<p></p>
+<li><a href="#0">返回首部</a><li>
+<p></p>
+<p></p>
+<h1 id="4"><p class="STYLE1">我的学业规划</p></h1>
+<p class="STYLE2">作为一个热爱游戏的当代大学生，我希望踏进游戏开发的领域，因此，我的学业规划将重点放在与游戏开发相关的学习上，比如计算机图形学的学习、游戏引擎的开发与使用，希望有一天我开发的游戏可以为大家带来快乐</p>
+<p class="STYLE2">目前，我在自己尝试开发一些简单的小游戏，比如贪吃蛇、五子棋、推箱子。在不久的以后，我计划学习虚幻引擎，迈入开发3A大作的大门。路漫漫其修远兮，吾将上下而求索。我一定会虚心学习，在游戏开发这条路上越走越远。</p>
+<img class ="dotted" src="UE4.jpg" center width="1000" height="600"/>
+<p></p>
+<li><a href="#0">返回首部</a></li>
+</body>
+</html>
